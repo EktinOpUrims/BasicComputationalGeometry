@@ -1,10 +1,9 @@
-# BasicComputationalGeometry
+## Basic Computational Geometry
 
-Basic Computational Geometry
 
-A. Point on the Line segment
+# <p align = "center">A. Point on the Line segment </p>
 
-time limit per test: 2 seconds
+<div align = "center"> time limit per test: 2 seconds
 
 memory limit per test: 256 megabytes
 
@@ -12,31 +11,29 @@ input: standard input
 
 output: standard output
 
-Input
+</div>
 
+### Input
 Single line contains six integers — coordinates of the point and ends of the line segment.
 
-
-Output
-
+### Output
 Output YES, if point lies on the line segment, and NO — otherwise
 
+### Examples
 
-Examples
+#### input
 
-input
+```3 3 1 2 5 4```
 
-3 3 1 2 5 4
+#### output
 
-output
-
-YES
+``` YES ``` 
 
 
-input
+#### input
 
-4 2 4 2 4 5
+```4 2 4 2 4 5```
 
-output
+#### output
 
-YES
+``` YES ```
