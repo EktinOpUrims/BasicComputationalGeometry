@@ -1,5 +1,4 @@
 # BasicComputationalGeometry
-=====================================================
 E. Perimeter
 -------------------------------------------------
 time limit per test: 2 seconds
