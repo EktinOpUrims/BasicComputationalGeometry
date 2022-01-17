@@ -1,7 +1,7 @@
 # BasicComputationalGeometry
 E. Perimeter
 -------------------------------------------------
-+ <center> time limit per test: 2 seconds</center>
+<p align = "center"> time limit per test: 2 seconds</p>
 
 + memory limit per test: 256 megabytes
 
