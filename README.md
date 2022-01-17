@@ -1,6 +1,6 @@
 ## BasicComputationalGeometry
 
-<p align="center">
+### <p align="center">
 D. Area</p>
 
 <div align = "center">time limit per test: 2 seconds
