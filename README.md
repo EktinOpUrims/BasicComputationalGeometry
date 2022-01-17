@@ -24,9 +24,7 @@ Note that, given points can coincide and lay on the same line.
 Output the perimeter of the convex hull as accurate as possible.
 
 ### Example
-
 #### input
-
 ```
 5
 0 0
@@ -36,5 +34,4 @@ Output the perimeter of the convex hull as accurate as possible.
 2 2
 ```
 #### output
-
 ```8```
