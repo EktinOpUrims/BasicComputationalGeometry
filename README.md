@@ -14,7 +14,7 @@ memory limit per test: 256 megabytes
 </div>
 For given points on a plane find the perimeter of the convex hull.
 
-Input
+## Input
 
 First line contains a single integer n — number of the points (3 ≤ n ≤ 10^5).
 
@@ -22,13 +22,13 @@ Next n lines contain coordinates of the points — a pair (x, y) one per line 
 
 Note that, given points can coincide and lay on the same line.
 
-Output
+## Output
 
 Output the perimeter of the convex hull as accurate as possible.
 
-Example
+### Example
 
-### input
+#### input
 
 ```
 5
@@ -38,6 +38,6 @@ Example
 1 1
 2 2
 ```
-### output
+#### output
 
 ```8```
