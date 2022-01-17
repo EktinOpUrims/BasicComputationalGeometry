@@ -5,9 +5,9 @@
 
 memory limit per test: 256 megabytes
 
-input: standard input
+# input: standard input
 
-output: standard output
+# output: standard output
 
 </div>
 For given points on a plane find the perimeter of the convex hull.
