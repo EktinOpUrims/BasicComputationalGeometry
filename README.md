@@ -1,6 +1,5 @@
 # Basic Computational Geometry
-### E. Perimeter
-
+### <p align = "center"> E. Perimeter </p>
 <div align = "center"> 
   time limit per test: 2 seconds 
   
