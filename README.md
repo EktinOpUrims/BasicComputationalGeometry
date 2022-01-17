@@ -1,14 +1,14 @@
 # BasicComputationalGeometry
 E. Perimeter
 -------------------------------------------------
-<p align = "center"> time limit per test: 2 seconds</p>
+<p align = "center"> time limit per test: 2 seconds
 
 + memory limit per test: 256 megabytes
 
 + input: standard input
 
 + output: standard output
-
+</p>
 For given points on a plane find the perimeter of the convex hull.
 
 Input
