@@ -1,7 +1,7 @@
-# BasicComputationalGeometry
-<div align = "center"> E. Perimeter
+# Basic Computational Geometry
+<div align = "center"> E. Perimeter </div>
 -------------------------------------------------
-time limit per test: 2 seconds 
+<div align = "center"> time limit per test: 2 seconds 
 
 memory limit per test: 256 megabytes
 
