@@ -1,7 +1,7 @@
 ## Basic Computational Geometry
 
 
-# <p align = "center">A. Point on the Line segment </p>
+## <p align = "center">A. Point on the Line segment </p>
 
 <div align = "center"> time limit per test: 2 seconds
 
@@ -32,8 +32,12 @@ Output YES, if point lies on the line segment, and NO — otherwise
 
 #### input
 
-```4 2 4 2 4 5```
+```
+4 2 4 2 4 5
+```
 
 #### output
 
-``` YES ```
+``` 
+YES 
+```
