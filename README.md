@@ -28,20 +28,16 @@ Output the perimeter of the convex hull as accurate as possible.
 
 Example
 
-input
+### input
 
-```5
-
+```
+5
 0 0
-
 2 0
-
 0 2
-
 1 1
-
 2 2
 ```
-output
+### output
 
 ```8```
