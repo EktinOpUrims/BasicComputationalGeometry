@@ -1,7 +1,7 @@
 # Basic Computational Geometry
 
 
-Each of five branches contains a single problem. 
+Each of five branches contains a single problem:
 
 
 1. A. Point on the line segment (check whether a point lies on the segment or not)
