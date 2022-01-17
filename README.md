@@ -2,13 +2,9 @@
 <div align = "center"> E. Perimeter </div>
 
 <div align = "center"> time limit per test: 2 seconds 
-
 memory limit per test: 256 megabytes
-
 input: standard input
-
 output: standard output
-
 </div>
 For given points on a plane find the perimeter of the convex hull.
 
